@@ -1,7 +1,7 @@
 ---
 title: 'Hunter Schuler'
 image: '/images/team/sage-kirk-485982-unsplash.jpg'
-jobtitle: 'Owner'
+jobtitle: 'Webmaster'
 email: 'hunter@schulercustom.services'
 linkedinurl: ''
 ---
