@@ -1,6 +1,6 @@
 ---
 title: 'Accounting'
-image: '/services/noun_591323.png'
+image: '/services/591323.png'
 ---
 
 Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum

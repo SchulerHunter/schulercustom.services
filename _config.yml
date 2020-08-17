@@ -1,7 +1,7 @@
 baseurl: ''
 exclude: []
 permalink: pretty
-title: 'Schuler Custom Service'
+title: 'Schuler Custom Services'
 
 collections:
   services:

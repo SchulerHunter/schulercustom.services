@@ -1,6 +1,6 @@
 ---
 title: 'Gabriele Schuler'
-image: '/images/team/sage-kirk-485982-unsplash.jpg'
+image: '/images/team/485982.jpg'
 jobtitle: 'Owner'
 email: 'gabriele@schulercustom.services'
 linkedinurl: ''

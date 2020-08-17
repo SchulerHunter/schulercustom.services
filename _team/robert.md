@@ -1,6 +1,6 @@
 ---
 title: 'Robert Schuler'
-image: '/images/team/peter-van-eijk-711986-unsplash.jpg'
+image: '/images/team/711986.jpg'
 jobtitle: 'Operator'
 email: 'rovert@schulercustom.services'
 ---
